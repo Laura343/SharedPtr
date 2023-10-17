@@ -1,0 +1,3 @@
+C:/Users/hovha/ACA/Sharedptr/build/CMakeFiles/Sharedptr.dir
+C:/Users/hovha/ACA/Sharedptr/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hovha/ACA/Sharedptr/build/CMakeFiles/ZERO_CHECK.dir
